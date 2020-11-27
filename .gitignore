@@ -4,7 +4,8 @@ node_modules
 
 /tests/e2e/videos/
 /tests/e2e/screenshots/
-
+/tests/e2e/cypress
+/cypress
 
 # local env files
 .env.local
