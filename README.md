@@ -1,5 +1,13 @@
 # bccampus-oer-viewer
 
+## Development setup
+```
+vue create bccampus-oer-viewer
+cd bccampus-oer-viewer
+vue add bccampus-oer-viewer
+npm install --save wpapi
+```
+
 ## Project setup
 ```
 npm install
@@ -25,5 +33,13 @@ npm run test:e2e
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Technologies
+- Vue.js
+- Vuex
+- Vue Router
+- Vuetify
+- WP-API/node-wpapi
+
+## Images
+- Book Placeholder Image: (http://nma.kcc.hawaii.edu/gargiulo/tests/portfolios/myportfolio2/book-cover.html)
